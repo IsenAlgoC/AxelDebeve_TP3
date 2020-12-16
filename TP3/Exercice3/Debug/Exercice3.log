@@ -1,0 +1,3 @@
+﻿  Exercice3.c
+C:\Users\Axel\source\repos\TP3\Exercice3\Exercice3.c(32,22): warning C4013: 'toupper' non défini(e) ; extern retournant int pris par défaut
+  Exercice3.vcxproj -> C:\Users\Axel\source\repos\TP3\Debug\Exercice3.exe
